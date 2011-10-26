@@ -1,6 +1,6 @@
 package Encode::Base32::Crockford;
 {
-  $Encode::Base32::Crockford::VERSION = '2.112990';
+  $Encode::Base32::Crockford::VERSION = '2.112991';
 }
 
 use warnings;
@@ -148,7 +148,7 @@ Encode::Base32::Crockford - encode/decode numbers using Douglas Crockford's Base
 
 =head1 VERSION
 
-version 2.112990
+version 2.112991
 
 =head1 DESCRIPTION
 

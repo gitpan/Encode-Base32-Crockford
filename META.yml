@@ -17,4 +17,4 @@ requires:
   Test::Warn: 0
 resources:
   repository: git://github.com/gbarr/Encode-Base32-Crockford.git
-version: 2.112990
+version: 2.112991
